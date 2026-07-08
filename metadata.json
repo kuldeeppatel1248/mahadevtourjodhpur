@@ -1,0 +1,6 @@
+{
+  "name": "Mahadev Tour Jodhpur",
+  "description": "Premium luxury travel company in Jodhpur, Rajasthan. Tour packages, high-quality fleet, and custom wedding/corporate transport.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
